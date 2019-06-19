@@ -25,6 +25,14 @@ permalink: /people
 
 <table>
 <tr>
+<td style="width: 100px;"><img src="../images/team/mehrdad.png" alt="Mehrdad Mirzaei" /></td>
+<td><strong>Mehrdad Mirzaei, PhD</strong><br /><strong>PhD candidate
+</strong><br />SUNY, Albany<br />Email: mmirzaei [at] albany [dot] edu <br /></td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td style="width: 100px;"><img src="../images/team/siqian_zhao.jpg" alt="Siqian Zhao" /></td>
 <td><a href="https://www.albany.edu/~sz612866/" style="color: rgb(0,0,256)">Siqian Zhao</a><br /><strong>PhD Student</strong><br />SUNY, Albany <br />Email: szhao2 [at] albany [dot] edu<br /></td>
 </tr>
