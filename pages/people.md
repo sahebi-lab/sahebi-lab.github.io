@@ -26,7 +26,7 @@ permalink: /people
 <table>
 <tr>
 <td style="width: 100px;"><img src="../images/team/mehrdad.jpg" alt="Mehrdad Mirzaei" /></td>
-<td><strong>Mehrdad Mirzaei, PhD</strong><br /><strong>PhD candidate
+<td><strong>Mehrdad Mirzaei</strong><br /><strong>PhD Candidate
 </strong><br />SUNY, Albany<br />Email: mmirzaei [at] albany [dot] edu <br /></td>
 </tr>
 </table>
