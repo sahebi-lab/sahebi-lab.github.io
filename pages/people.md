@@ -40,6 +40,13 @@ permalink: /people
 
 <table>
 <tr>
+<td style="width: 100px;"><img src="../images/team/Amith.jpg" alt="Amith K Singh" /></td>
+<td><a href="https://www.albany.edu/~as292518/" style="color: rgb(0,0,256)">Amith</a><br /><strong>PhD Student</strong><br />SUNY, Albany <br />Email: asingh20 [at] albany [dot] edu<br /></td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td style="width: 100px;"><img src="../images/team/russell.jpg" alt="Russell Ng" /></td>
 <td><a href="https://www.albany.edu/~rn533526/" style="color: rgb(0,0,256)">Russell Ng</a><br /><strong>Master Student</strong><br />SUNY, Albany <br />Email: rng [at] albany [dot] edu<br /></td>
 </tr>
