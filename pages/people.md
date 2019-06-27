@@ -40,8 +40,8 @@ permalink: /people
 
 <table>
 <tr>
-<td style="width: 100px;"><img src="../images/team/Amith.jpg" alt="Amith K Singh" /></td>
-<td><a href="https://www.albany.edu/~as292518/" style="color: rgb(0,0,256)">Amith</a><br /><strong>PhD Student</strong><br />SUNY, Albany <br />Email: asingh20 [at] albany [dot] edu<br /></td>
+<td style="width: 100px;"><img src="../images/team/Amith.png" alt="Amith K Singh" /></td>
+<td><a href="https://www.albany.edu/~as292518/" style="color: rgb(0,0,256)">Amith Singh</a><br /><strong>PhD Student</strong><br />SUNY, Albany <br />Email: asingh20 [at] albany [dot] edu<br /></td>
 </tr>
 </table>
 
