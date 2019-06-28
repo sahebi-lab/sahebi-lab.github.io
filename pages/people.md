@@ -18,7 +18,7 @@ permalink: /people
 <table>
 <tr>
 <td style="width: 100px;"><img src="../images/team/nam.png" alt="Thanh-Nam Doan" /></td>
-<td><strong>Thanh-Nam Doan, PhD</strong><br /><strong>Postdoctoral Researcher
+<td><a href="http://tndoan.com/" style="color: rgb(0,0,256)">Thanh-Nam Doan, PhD</a><br /><strong>Postdoctoral Researcher
 </strong><br />SUNY, Albany<br />Email: tdoan [at] albany [dot] edu <br /></td>
 </tr>
 </table>
