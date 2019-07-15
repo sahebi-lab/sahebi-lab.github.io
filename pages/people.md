@@ -66,5 +66,14 @@ permalink: /people
 </tr>
 </table>
 
+<table>
+<tr>
+<td style="width: 100px;"><img src="../images/team/leah_rice.jpg" alt="Alexander Valdez" /></td>
+<td><strong>Alexander Valdez</a><br /><strong>Undergrad Student</strong><br />SUNY, Albany <br />Email: avaldez2 [at] albany [dot] edu<br /></td>
+</tr>
+</table>
+
+
+
 # Alumni
 We always miss you and wish all the best for you
