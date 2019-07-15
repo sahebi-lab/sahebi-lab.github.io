@@ -69,7 +69,7 @@ permalink: /people
 <table>
 <tr>
 <td style="width: 100px;"><img src="../images/team/alexander_valdez.png" alt="Alexander Valdez" /></td>
-<td><strong>Alexander Valdez</a><br /><strong>Undergrad Student</strong><br />SUNY, Albany <br />Email: avaldez2 [at] albany [dot] edu<br /></td>
+<td><strong>Alexander Valdez</strong><br /><strong>Undergrad Student</strong><br />SUNY, Albany <br />Email: avaldez2 [at] albany [dot] edu<br /></td>
 </tr>
 </table>
 
