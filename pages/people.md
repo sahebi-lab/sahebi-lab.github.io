@@ -74,6 +74,5 @@ permalink: /people
 </table>
 
 
-
 # Alumni
 We always miss you and wish all the best for you
