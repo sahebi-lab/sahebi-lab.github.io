@@ -64,7 +64,6 @@ We always miss you and wish all the best for you.
 
 <table>
 <tr>
-<td style="width: 100px;"><img src="../images/team/alexander_valdez.png" alt="Alexander Valdez" /></td>
 <td><strong>Jayesh Yeola</strong><br /><strong>Master Research Student</strong><br /></td>
 </tr>
 </table>
