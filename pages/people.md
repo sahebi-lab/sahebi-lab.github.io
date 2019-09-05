@@ -65,6 +65,7 @@ We always miss you and wish all the best for you.
 <table>
 <tr>
 <td><strong>Jayesh Yeola</strong><br /><strong>Master Research Student</strong>
+</tr>
 </table>
 
 <table>
