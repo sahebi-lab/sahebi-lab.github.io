@@ -17,14 +17,6 @@ permalink: /people
 
 <table>
 <tr>
-<td style="width: 100px;"><img src="../images/team/nam.png" alt="Thanh-Nam Doan" /></td>
-<td><a href="http://tndoan.com/" style="color: rgb(0,0,256)">Thanh-Nam Doan, PhD</a><br /><strong>Postdoctoral Researcher
-</strong><br />SUNY, Albany<br />Email: tdoan [at] albany [dot] edu <br /></td>
-</tr>
-</table>
-
-<table>
-<tr>
 <td style="width: 100px;"><img src="../images/team/mehrdad.jpg" alt="Mehrdad Mirzaei" /></td>
 <td><strong>Mehrdad Mirzaei</strong><br /><strong>PhD Candidate
 </strong><br />SUNY, Albany<br />Email: mmirzaei [at] albany [dot] edu <br /></td>
@@ -75,4 +67,11 @@ permalink: /people
 
 
 # Alumni
-We always miss you and wish all the best for you
+We always miss you and wish all the best for you.
+<table>
+<tr>
+<td style="width: 100px;"><img src="../images/team/nam.png" alt="Thanh-Nam Doan" /></td>
+<td><a href="http://tndoan.com/" style="color: rgb(0,0,256)">Thanh-Nam Doan, PhD</a><br /><strong>Postdoctoral Researcher
+</strong><br />SUNY, Albany<br />Email: tdoan [at] albany [dot] edu <br /></td>
+</tr>
+</table>
