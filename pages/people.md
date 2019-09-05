@@ -64,8 +64,7 @@ We always miss you and wish all the best for you.
 
 <table>
 <tr>
-<td><strong>Jayesh Yeola</a><br /><strong>Undergrad. Research Student</strong><br />SUNY, Albany <br /><br /></td>
-</tr>
+<td><strong>Jayesh Yeola</a><br /><strong>Undergrad. Research Student</strong><br />SUNY, Albany <br />
 </table>
 
 <table>
