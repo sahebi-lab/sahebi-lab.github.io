@@ -64,7 +64,7 @@ We always miss you and wish all the best for you.
 
 <table>
 <tr>
-<td><strong>Jayesh Yeola</a><br /><strong>Undergrad. Research Student</strong><br />SUNY, Albany <br />Email: larice [at] albany [dot] edu<br /></td>
+<td><strong>Jayesh Yeola</a><br /><strong>Undergrad. Research Student</strong><br />SUNY, Albany <br /><br /></td>
 </tr>
 </table>
 
