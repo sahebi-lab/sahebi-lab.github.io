@@ -64,19 +64,19 @@ We always miss you and wish all the best for you.
 
 <table>
 <tr>
-<td><strong>Jayesh Yeola</strong><br /><strong>Undergrad. Research Student</strong><br />SUNY, Albany 
+<td><strong>Jayesh Yeola</strong><br /><strong>Master Research Student</strong><br /> 
 </table>
 
 <table>
 <tr>
 <td style="width: 100px;"><img src="../images/team/russell.jpg" alt="Russell Ng" /></td>
-<td><a href="https://www.albany.edu/~rn533526/" style="color: rgb(0,0,256)">Russell Ng</a><br /><strong>Master Student</strong><br />SUNY, Albany <br />Email: rng [at] albany [dot] edu<br /></td>
+<td><a href="https://www.albany.edu/~rn533526/" style="color: rgb(0,0,256)">Russell Ng</a><br /><strong>Master Research Student</strong <br />Email: rng [at] albany [dot] edu<br /></td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td style="width: 100px;"><img src="../images/team/leah_rice.jpg" alt="Leah Rice" /></td>
-<td><a href="https://www.albany.edu/~lr811453/" style="color: rgb(0,0,256)">Leah Rice</a><br /><strong>Undergrad. Research Student</strong><br />SUNY, Albany <br />Email: larice [at] albany [dot] edu<br /></td>
+<td><a href="https://www.albany.edu/~lr811453/" style="color: rgb(0,0,256)">Leah Rice</a><br /><strong>Undergrad. Research Student</strong><br />Email: larice [at] albany [dot] edu<br /></td>
 </tr>
 </table>
