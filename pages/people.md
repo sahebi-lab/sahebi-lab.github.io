@@ -64,6 +64,12 @@ We always miss you and wish all the best for you.
 
 <table>
 <tr>
+<td><strong>Jayesh Yeola</a><br /><strong>Undergrad. Research Student</strong><br />SUNY, Albany <br />Email: larice [at] albany [dot] edu<br /></td>
+</tr>
+</table>
+
+<table>
+<tr>
 <td style="width: 100px;"><img src="../images/team/russell.jpg" alt="Russell Ng" /></td>
 <td><a href="https://www.albany.edu/~rn533526/" style="color: rgb(0,0,256)">Russell Ng</a><br /><strong>Master Student</strong><br />SUNY, Albany <br />Email: rng [at] albany [dot] edu<br /></td>
 </tr>
