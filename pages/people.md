@@ -51,7 +51,7 @@ We always miss you and wish all the best for you.
 <tr>
 <td style="width: 100px;"><img src="../images/team/nam.png" alt="Thanh-Nam Doan" /></td>
 <td><a href="http://tndoan.com/" style="color: rgb(0,0,256)">Thanh-Nam Doan, PhD</a><br /><strong>Postdoctoral Researcher
-</strong><br />SUNY, Albany<br />Email: doan [dot] thanh [dot] nam[dot] 1988@gmail [dot] com <br /></td>
+</strong><br />SUNY, Albany<br />Email: thanh-nam-doan [at] utc [dot] edu <br /></td>
 </tr>
 </table>
 
