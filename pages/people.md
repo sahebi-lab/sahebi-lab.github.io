@@ -30,7 +30,19 @@ permalink: /people
 </tr>
 </table>
 
+<table>
+<tr>
+<td style="width: 100px;"><img src="../images/team/miley-pic.jpg" alt="Miley Yao" /></td>
+<td><a href="https://scholar.google.com/citations?hl=en&user=N7J1BHAAAAAJ" style="color: rgb(0,0,256)">Miley Yao</a><br /><strong>PhD Student</strong><br />SUNY, Albany <br />Email: myao [at] albany [dot] edu<br /></td>
+</tr>
+</table>
 
+<table>
+<tr>
+<td style="width: 100px;"><img src="../images/team/chunpai.jpg" alt="Chunpai Wang" /></td>
+<td><a href="https://chunpai.github.io/" style="color: rgb(0,0,256)">Chunpai Wang</a><br /><strong>PhD Student</strong><br />SUNY, Albany <br />Email: cwang25 [at] albany [dot] edu<br /></td>
+</tr>
+</table>
 
 # Alumni
 We always miss you and wish all the best for you.
@@ -82,5 +94,19 @@ We always miss you and wish all the best for you.
 <tr>
 <td style="width: 100px;"><img src="../images/team/alexander_valdez.png" alt="Alexander Valdez" /></td>
 <td><strong>Alexander Valdez</strong><br /><strong>Undergrad. Research Student</strong><br />SUNY, Albany <br />Email: avaldez2 [at] albany [dot] edu<br /></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td style="width: 100px;"><img src="../images/team/sai.jpg" alt="Sai Manish Cirigiri" /></td>
+<td><a href="https://www.albany.edu/~sc462113/" style="color: rgb(0,0,256)">Sai Manish Cirigiri</a><br /><strong>Master Research Student</strong><br />SUNY, Albany <br />Email: scirigiri [at] albany [dot] edu<br /></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td style="width: 100px;"><img src="../images/team/steve.jpg" alt="QinZhou Li (Steve)" /></td>
+<td><a href="https://www.albany.edu/~QL114971/" style="color: rgb(0,0,256)">QinZhou Li (Steve)</a><br /><strong>Undergrad. Research Student</strong><br />SUNY, Albany <br />Email: qli8 [at] albany [dot] edu<br /></td>
 </tr>
 </table>
