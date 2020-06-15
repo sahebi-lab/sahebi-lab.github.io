@@ -32,14 +32,14 @@ permalink: /people
 
 <table>
 <tr>
-<td style="width: 100px;"><img src="../images/team/miley-pic.jpg" alt="Miley Yao" /></td>
+<td style="width: 100px;"><img src="../images/team/miley.JPG" alt="Miley Yao" /></td>
 <td><a href="https://scholar.google.com/citations?hl=en&user=N7J1BHAAAAAJ" style="color: rgb(0,0,256)">Miley Yao</a><br /><strong>PhD Student</strong><br />SUNY, Albany <br />Email: myao [at] albany [dot] edu<br /></td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td style="width: 100px;"><img src="../images/team/chunpai.jpg" alt="Chunpai Wang" /></td>
+<td style="width: 100px;"><img src="../images/team/chunpai.png" alt="Chunpai Wang" /></td>
 <td><a href="https://chunpai.github.io/" style="color: rgb(0,0,256)">Chunpai Wang</a><br /><strong>PhD Student</strong><br />SUNY, Albany <br />Email: cwang25 [at] albany [dot] edu<br /></td>
 </tr>
 </table>
