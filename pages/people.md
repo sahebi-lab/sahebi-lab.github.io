@@ -13,15 +13,8 @@ permalink: /people
 </tr>
 </table>
 
-# Member
+# PhD Students
 
-<table>
-<tr>
-<td style="width: 100px;"><img src="../images/team/mehrdad.jpg" alt="Mehrdad Mirzaei" /></td>
-<td><strong>Mehrdad Mirzaei</strong><br /><strong>PhD Candidate
-</strong><br />SUNY, Albany<br />Email: mmirzaei [at] albany [dot] edu <br /></td>
-</tr>
-</table>
 
 <table>
 <tr>
@@ -44,8 +37,35 @@ permalink: /people
 </tr>
 </table>
 
-# Alumni
-We always miss you and wish all the best for you.
+# Master Students
+<table>
+<tr>
+<td style="width: 100px;"><img src="../images/team/user.jpg" alt="William Dahl" /></td>
+<td><a href="/" style="color: rgb(0,0,256)">William Dahl</a><br /><strong>
+</strong><br />SUNY, Albany<br />Email: wdahl [at] albany [dot] edu <br /></td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td style="width: 100px;"><img src="../images/team/user.jpg" alt="Vikas Reddy" /></td>
+<td><a href="/" style="color: rgb(0,0,256)">Vikas Reddy</a><br /><strong>
+</strong><br />SUNY, Albany<br />Email: smusku [at] albany [dot] edu <br /></td>
+</tr>
+</table>
+
+
+# Undergraduate Students
+<table>
+<tr>
+<td style="width: 100px;"><img src="../images/team/user.jpg" alt="Mohammed Hashem" /></td>
+<td><a href="/" style="color: rgb(0,0,256)">Mohammed Hashem</a><br /><strong>
+</strong><br />SUNY, Albany<br />Email: mhashem [at] albany [dot] edu <br /></td>
+</tr>
+</table>
+
+
+# Past Postdocs
 <table>
 <tr>
 <td style="width: 100px;"><img src="../images/team/nam.png" alt="Thanh-Nam Doan" /></td>
@@ -54,6 +74,17 @@ We always miss you and wish all the best for you.
 </tr>
 </table>
 
+# PhD Graduates
+<table>
+<tr>
+<td style="width: 100px;"><img src="../images/team/mehrdad.jpg" alt="Mehrdad Mirzaei" /></td>
+<td><strong>Mehrdad Mirzaei</strong><br /><strong>PhD
+</strong><br />SUNY, Albany<br />Email: mmirzaei [at] albany [dot] edu <br /></td>
+</tr>
+</table>
+
+
+# Alumni
 <table>
 <tr>
 <td style="width: 100px;"><img src="../images/team/Amith.png" alt="Amith K Singh" /></td>
@@ -111,3 +142,12 @@ We always miss you and wish all the best for you.
 <td><a href="https://www.albany.edu/~QL114971/" style="color: rgb(0,0,256)">QinZhou Li (Steve)</a><br /><strong>Undergrad. Research Student</strong><br />SUNY, Albany <br />Email: qli8 [at] albany [dot] edu<br /></td>
 </tr>
 </table>
+
+# Visitors
+<table>
+<tr>
+<td style="width: 100px;"><img src="../images/team/user.png" alt="Laura O. Moraes" /></td>
+<td><a href="" style="color: rgb(0,0,256)">Laura O. Moraes</a><br /><strong>Ph.D.</strong><br />Universidade Federal do Rio de Janeiro (UFRJ) <br />Email: lmoraes [at] cos.ufrj.br<br /></td>
+</tr>
+</table>
+
