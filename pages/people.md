@@ -146,7 +146,7 @@ permalink: /people
 # Visitors
 <table>
 <tr>
-<td style="width: 100px;"><img src="../images/team/user.png" alt="Laura O. Moraes" /></td>
+<td style="width: 100px;"><img src="../images/user.png" alt="Laura O. Moraes" /></td>
 <td><a href="" style="color: rgb(0,0,256)">Laura O. Moraes</a><br /><strong>Ph.D.</strong><br />Universidade Federal do Rio de Janeiro (UFRJ) <br />Email: lmoraes [at] cos.ufrj.br<br /></td>
 </tr>
 </table>
