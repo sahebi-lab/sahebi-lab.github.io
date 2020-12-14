@@ -40,7 +40,7 @@ permalink: /people
 # Master Students
 <table>
 <tr>
-<td style="width: 100px;"><img src="../images/team/user.jpg" alt="William Dahl" /></td>
+<td style="width: 100px;"><img src="../images/user.jpg" alt="William Dahl" /></td>
 <td><a href="/" style="color: rgb(0,0,256)">William Dahl</a><br /><strong>
 </strong><br />SUNY, Albany<br />Email: wdahl [at] albany [dot] edu <br /></td>
 </tr>
@@ -48,7 +48,7 @@ permalink: /people
 
 <table>
 <tr>
-<td style="width: 100px;"><img src="../images/team/user.jpg" alt="Vikas Reddy" /></td>
+<td style="width: 100px;"><img src="../images/user.jpg" alt="Vikas Reddy" /></td>
 <td><a href="/" style="color: rgb(0,0,256)">Vikas Reddy</a><br /><strong>
 </strong><br />SUNY, Albany<br />Email: smusku [at] albany [dot] edu <br /></td>
 </tr>
@@ -58,7 +58,7 @@ permalink: /people
 # Undergraduate Students
 <table>
 <tr>
-<td style="width: 100px;"><img src="../images/team/user.jpg" alt="Mohammed Hashem" /></td>
+<td style="width: 100px;"><img src="../images/user.jpg" alt="Mohammed Hashem" /></td>
 <td><a href="/" style="color: rgb(0,0,256)">Mohammed Hashem</a><br /><strong>
 </strong><br />SUNY, Albany<br />Email: mhashem [at] albany [dot] edu <br /></td>
 </tr>
