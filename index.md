@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<p style="font-size:110%;">Welcome to Personalized AI lab!</p>
+<!-- <p style="font-size:110%;">Welcome to Personalized AI lab!</p> -->
 
 <!-- TODO: add pictures -->
         
