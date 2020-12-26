@@ -1,0 +1,36 @@
+I"�<!-- <p style="font-size:110%;">Welcome to Personalized AI lab!</p> -->
+<p>In PersAI Lab, we research on human-centered data science, including recommender systems and personalized education problems. Specific themes of our research include:</p>
+
+<ul>
+  <li><strong>Recommender Systems</strong>
+    <ul>
+      <li>cross-domain recommender systems</li>
+      <li>multi-source and multi-objective recommender systems</li>
+      <li>community-based collaborative filtering</li>
+    </ul>
+  </li>
+  <li><strong>Learning analytics and educational Data Mining</strong>
+    <ul>
+      <li>personalized student sequencing</li>
+      <li>student knowledge modeling</li>
+      <li>learning resource recommendations</li>
+      <li>learner behavior modeling and prediction</li>
+      <li>domain knowledge modeling in unstructured contexts</li>
+    </ul>
+  </li>
+</ul>
+
+<!-- TODO: add pictures -->
+
+<!--<center><p style="font-size:200%;"><strong>NEWS: </strong></p></center>-->
+<h2 id="news">News:</h2>
+<ul>
+  <li><em>December 2020</em>: Congrats Miley and Siqian for their collaborative paper accepted at AAAI’2021 conference, titled “Relaxed clustered hawkes process for procrastination modeling in MOOCs”</li>
+  <li><em>October 2020</em>: Congrats Mehrdad for accepted paper at WI’2020 conference, titled “Sb-dnmf: A structure based discriminative non-negative matrix factorization model for detecting inefficient learning behaviors”</li>
+  <li><em>September 2020</em>: Our paper “TransCrossCF:  Transition-based cross-domain collaborative filtering” was accepted in ICMLA 2020!</li>
+  <li><em>August 2020</em>: Congratulations to Dr. Mehrdad Mirzaei for successfully defending his dissertation on “Discriminative Factorization Models for Student Behavioral Pattern Detection and Classification”. He is the first PhD graduate of our lab!</li>
+</ul>
+
+<p><img src="images/group_photo_Nov_2018.jpg" alt="A photo of our lab members in 2017" />
+From left to right: Jeyesh, Mehrdad, Sherry, Siqian, Zinan, Thanh-Nam, Amit</p>
+:ET

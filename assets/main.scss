@@ -1,0 +1,33 @@
+---
+# the above and below dashes are needed
+---
+@import "{{ site.theme }}";
+
+table.tablecenter {  
+	margin-bottom: 30px; 
+	text-align: center; 
+	color: #3f3f3f; 
+	border-collapse: 
+	collapse; 
+	border: 0px; 
+	solid: #e8e8e8;
+}
+
+table {
+	border: 10px !important;
+	border-collapse:collapse !important;
+}
+
+table.members {
+	border: 0px !important;
+	border-collapse:collapse !important;
+	td {		
+			border: 0px !important;	
+			border-collapse:collapse !important;
+			text-align: center; 
+			width: 33%;
+			img {
+				width: 150px;
+			}			
+	}	
+}
