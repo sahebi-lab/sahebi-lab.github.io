@@ -1,3 +1,3 @@
-# Sahebi's Lab Website
+# Personalized AI Lab Website
 
 Clone from [Systems Medicine Disease Maps](https://github.com/disease-maps/disease-maps.github.io).

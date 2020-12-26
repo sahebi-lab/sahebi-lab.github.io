@@ -1,8 +1,13 @@
 title: PersAI lab
-description: 
+email: ssahebi@albany.edu
+description: Personalized Artificial Intelligence Lab at SUNY-Albany
 show_downloads: true
+github_username: persai-lab
 google_analytics:
-theme: jekyll-theme-minimal
+theme: minima
+# twitter_username: 
+
 
 #plugins:
 #  - jekyll-redirect-from
+# - jekyll-feed

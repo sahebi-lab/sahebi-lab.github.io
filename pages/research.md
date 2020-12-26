@@ -2,20 +2,10 @@
 title: Research
 layout: default
 permalink: /research
+order: 1
 ---
 
-Our main research interest is in human-centered data science, including recommender systems, educational, and social network problems. My more specific themes of my research include:
 
-- Recommender Systems
-    - cross-domain recommender systems
-    - utilizing external information in user profiles
-    - community-based recommendations
-- Learning analytics and educational Data Mining
-    - Q-Matrix learning
-    - predicting students performance
-    - educational recommender systems and student sequencing
-- Community Detection in Social Networks
-    - use of social networks in collaborative filtering recommenders
 
 # Recommendation System
  Recommender systems (or recommendation systems) have emerged as one of the solutions to the information overload problem in 1990's. Nowadays, they are an essential part of many modern web systems. The goal of recommender systems is to present the most desirable information and products (items) to users based on their preferences. Although recommender systems are the topic of much research, they still suffer from many problems. One of their important problems happens when a new user starts using the system or a new item is introduced in it, and the system does not have enough information about this user or item to do the recommendations (the cold-start problem). One solution to such problem is cross-domain recommender systems. The main goal of these recommenders is to transfer useful information from one or more source (or auxiliary) domains to a target domain for providing better recommendations to user. For example, if a user has not watched any movies but has purchased some perfumes, we can discover his/her taste in movies based on the perfumes he/she has purchased and recommend some movies to him/her. Another approach to this problem is transferring external user profile information in the same domain from other systems. Despite the fact that cross-domain recommenders have been proved useful in some domains, the question remains that what makes a domain-pair more suitable for cross-domain recommendation? In my research, I explore methods to address the cold-start problem. More specifically, I research on characterizing the key aspects that distinguish between helpful and unhelpful transferred information between domain pairs or from external profiles; model these problems; and develop algorithms that can take advantage of these extra domain information in providing better recommendations to users. 

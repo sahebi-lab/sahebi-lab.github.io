@@ -2,6 +2,7 @@
 title: Projects
 layout: default
 permalink: /projects
+order: 4
 ---
 
 # Projects

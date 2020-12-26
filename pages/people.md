@@ -2,87 +2,375 @@
 title: People
 layout: default
 permalink: /people
+order: 3
 ---
        
 # Faculty
 
-<table>
+
+<table class="members">
 <tr>
-<td style="width: 100px;"><img href="http://www.cs.albany.edu/~sherry/" src="../images/team/sherry.png" alt="Shaghayegh (Sherry) Sahebi" /></td>
-<td><a href="http://www.cs.albany.edu/~sherry/" style="color: rgb(0,0,256)">Shaghayegh (Sherry) Sahebi, PhD</a><br /><strong>Assistant Professor</strong><br />SUNY, Albany <br />Email: ssahebi [at] albany [dot] edu<br /></td>
+	<td>		
+	</td>
+	<td>
+		<img src="../images/team/sherry.png" alt="Shaghayegh (Sherry) Sahebi" />
+		<br>
+		<a href="http://www.cs.albany.edu/~sherry/">Shaghayegh (Sherry) Sahebi</a>	
+		<br>
+		<strong>Assistant Professor</strong>
+		<br>
+		ssahebi [at] albany.edu
+	</td>
+	<td>
+	</td>
 </tr>
 </table>
+
+
+<!-- 
+<table class="tablecenter">
+<tr>
+<td><img href="http://www.cs.albany.edu/~sherry/" src="../images/team/sherry.png" alt="Shaghayegh (Sherry) Sahebi" /></td>
+<td><a href="http://www.cs.albany.edu/~sherry/">Shaghayegh (Sherry) Sahebi, PhD</a><br />
+<strong>Assistant Professor</strong>
+<br />SUNY, Albany <br />
+Email: ssahebi [at] albany [dot] edu<br /></td>
+</tr>
+</table>
+ -->
+
 
 # PhD Students
 
 
-<table>
+<table class="members">
 <tr>
-<td style="width: 100px;"><img src="../images/team/siqian_zhao.jpg" alt="Siqian Zhao" /></td>
-<td><a href="https://www.albany.edu/~sz612866/" style="color: rgb(0,0,256)">Siqian Zhao</a><br /><strong>PhD Student</strong><br />SUNY, Albany <br />Email: szhao2 [at] albany [dot] edu<br /></td>
+	<td>
+		<img src="../images/team/siqian_zhao.jpg" alt="Siqian Zhao" />
+		<br>
+		<a href="https://www.albany.edu/~sz612866/">Siqian Zhao</a>	
+		<br>
+		szhao2 [at] albany.edu
+	</td>
+	<td>
+		<img src="../images/team/miley.png" alt="Miley Yao" />
+		<br>
+		<a href="https://scholar.google.com/citations?hl=en&user=N7J1BHAAAAAJ">Miley Yao</a>	
+		<br>
+		myao [at] albany.edu
+	</td>
+	<td>
+		<img src="../images/team/chunpai.png" alt="Chunpai Wang" />
+		<br>
+		<a href="https://chunpai.github.io/">Chunpai Wang</a>	
+		<br>
+		cwang25 [at] albany.edu
+	</td>
 </tr>
 </table>
 
-<table>
-<tr>
-<td style="width: 100px;"><img src="../images/team/miley.JPG" alt="Miley Yao" /></td>
-<td><a href="https://scholar.google.com/citations?hl=en&user=N7J1BHAAAAAJ" style="color: rgb(0,0,256)">Miley Yao</a><br /><strong>PhD Student</strong><br />SUNY, Albany <br />Email: myao [at] albany [dot] edu<br /></td>
-</tr>
-</table>
 
-<table>
-<tr>
-<td style="width: 100px;"><img src="../images/team/chunpai.png" alt="Chunpai Wang" /></td>
-<td><a href="https://chunpai.github.io/" style="color: rgb(0,0,256)">Chunpai Wang</a><br /><strong>PhD Student</strong><br />SUNY, Albany <br />Email: cwang25 [at] albany [dot] edu<br /></td>
-</tr>
-</table>
-
+<!-- 
 # Master Students
-<table>
-<tr>
-<td style="width: 100px;"><img src="../images/user.png" alt="William Dahl" /></td>
-<td><a href="/" style="color: rgb(0,0,256)">William Dahl</a><br /><strong>
-</strong><br />SUNY, Albany<br />Email: wdahl [at] albany [dot] edu <br /></td>
-</tr>
-</table>
 
-<table>
+
+<table class="members">
 <tr>
-<td style="width: 100px;"><img src="../images/user.png" alt="Vikas Reddy" /></td>
-<td><a href="/" style="color: rgb(0,0,256)">Vikas Reddy</a><br /><strong>
-</strong><br />SUNY, Albany<br />Email: smusku [at] albany [dot] edu <br /></td>
+	<td>
+		<img src="../images/team/siqian_zhao.jpg" alt="Siqian Zhao" />
+		<br>
+		<a href="https://www.albany.edu/~sz612866/">Siqian Zhao</a>	
+		<br>
+		szhao2 [at] albany.edu
+	</td>
+	<td>
+		<img src="../images/team/miley.JPG" alt="Miley Yao" />
+		<br>
+		<a href="https://scholar.google.com/citations?hl=en&user=N7J1BHAAAAAJ">Miley Yao</a>	
+		<br>
+		myao [at] albany.edu
+	</td>
+	<td>
+		
+	</td>
 </tr>
 </table>
+ -->
+
 
 
 # Undergraduate Students
-<table>
+<table class="members">
 <tr>
-<td style="width: 100px;"><img src="../images/user.png" alt="Mohammed Hashem" /></td>
-<td><a href="/" style="color: rgb(0,0,256)">Mohammed Hashem</a><br /><strong>
-</strong><br />SUNY, Albany<br />Email: mhashem [at] albany [dot] edu <br /></td>
+	<td>		
+	</td>
+	<td>
+		<img src="../images/user.png" alt="Mohammed Hashem" />
+		<br>
+		<a href="/">Mohammed Hashem</a>	
+		<br>
+		mhashem [at] albany.edu
+	</td>
+	<td>
+	</td>
 </tr>
 </table>
 
-
-# Past Postdocs
-<table>
-<tr>
-<td style="width: 100px;"><img src="../images/team/nam.png" alt="Thanh-Nam Doan" /></td>
-<td><a href="http://tndoan.com/" style="color: rgb(0,0,256)">Thanh-Nam Doan, PhD</a><br /><strong>Postdoctoral Researcher
-</strong><br />SUNY, Albany<br />Email: thanh-nam-doan [at] utc [dot] edu <br /></td>
-</tr>
-</table>
 
 # PhD Graduates
-<table>
+<table class="members">
 <tr>
-<td style="width: 100px;"><img src="../images/team/mehrdad.jpg" alt="Mehrdad Mirzaei" /></td>
-<td><strong>Mehrdad Mirzaei</strong><br /><strong>PhD
-</strong><br />SUNY, Albany<br />Email: mmirzaei [at] albany [dot] edu <br /></td>
+	<td>		
+	</td>
+	<td>
+		<img src="../images/team/mehrdad.jpg" alt="Mehrdad Mirzaei" />
+		<br>
+		<a href="/">Mehrdad Mirzaei</a>	
+		<br>
+		Ph.D. at Sep. 2020
+		<br>
+		mmirzaei [at] albany.edu
+	</td>
+	<td>
+	</td>
 </tr>
 </table>
 
+
+
+# Past Postdocs and Visitors
+<table class="members">
+<tr>
+	<td>
+		<img src="../images/team/nam.png" alt="Thanh-Nam Doan" />
+		<br>
+		<a href="http://tndoan.com/">Thanh-Nam Doan, Ph.D. </a>	
+		<br>
+		Post-Doc at PersAI Lab
+		<br>
+		 2017-18
+		<br>
+		thanh-nam-doan [at] utc.edu
+	</td>
+	<td>
+		<img src="../images/user.png" alt="Laura O. Moraes" />
+		<br>
+		<a href="/">Laura O. Moraes</a>	
+		<br>
+		PersAI visitor in 2019
+		<br>
+		Universidade Federal do Rio de Janeiro (UFRJ)
+	</td>
+	<td>		
+	</td>
+</tr>
+</table>
+
+
+# Alumni
+
+<table class="members">
+<tr>
+	<td>
+		<img src="../images/user.png" alt="William Dahl" />
+		<br>
+		<a href="/">William Dahl</a>	
+		<br>
+		Master Student, Fall 2020
+		<br>
+		wdahl [at] albany.edu
+	</td>
+	<td>
+		<img src="../images/user.png" alt="Vikas Reddy" />
+		<br>
+		<a href="/">Vikas Reddy</a>	
+		<br>
+		Master Student, Fall 2020
+		<br>
+		smusku [at] albany.edu
+	</td>
+	<td>
+	</td>
+</tr>
+<tr>
+	<td>
+		<img src="../images/team/sai.jpg" alt="Sai Manish Cirigiri" />
+		<br>
+		<a href="https://www.albany.edu/~sc462113/">Sai Manish Cirigiri</a>	
+		<br>
+		Master Student, Spring 2020
+		<br>
+		scirigiri [at] albany.edu
+	</td>
+	<td>
+		<img src="../images/team/brian.JPG" alt="Po-Cheng Juan (Brian)" />
+		<br>
+		<a href="https://www.albany.edu/~pj371468/">Po-Cheng Juan (Brian)</a>	
+		<br>
+		Master Student, Spring 2020
+		<br>
+		pjuan [at] albany.edu
+	</td>
+	<td>
+		<img src="../images/user.png" alt="Sreekar Dhaduvai" />
+		<br>
+		<a href="/">Sreekar Dhaduvai,</a>	
+		<br>
+		Master Student, Spring 2020
+		<br>
+		sdhaduvai [at] albany.edu
+	</td>
+</tr>
+<tr>
+	<td>
+		<img src="../images/user.png" alt="Keith Zeto" />
+		<br>
+		<a href="/">Keith Zeto</a>	
+		<br>
+		Master Student, Fall 2019
+		<br>
+		kzeto [at] albany.edu
+	</td>
+	<td>
+		<img src="../images/user.png" alt="Ishita Patil," />
+		<br>
+		<a href="/">Ishita Patil,</a>	
+		<br>
+		Master Student, Fall 2019
+		<br>
+		ipatil, [at] albany.edu
+	</td>
+	<td>
+		<img src="../images/user.png" alt="Jayesh Yeola" />
+		<br>
+		<a href="/">Jayesh Yeola</a>	
+		<br>
+		Master Student, Spring 2020
+		<br>
+		jyeola[at] albany.edu
+	</td>	
+</tr>
+<tr>
+	<td>
+		<img src="../images/user.png" alt="Subhitsha Suresh" />
+		<br>
+		<a href="/">Subhitsha Suresh</a>	
+		<br>
+		Master Student, Fall 2020
+		<br>
+		ssuresh[at] albany.edu
+	</td>
+	<td>
+		<img src="../images/team/leah_rice.jpg" alt="Leah Rice" />
+		<br>
+		<a href="https://www.albany.edu/~lr811453//">Leah Rice</a>	
+		<br>
+		Undergrad Student, Fall 2019
+		<br>
+		larice [at] albany.edu
+	</td>
+	<td>
+		<img src="../images/team/amith.png" alt="Amith Singh" />
+		<br>
+		<a href="https://chunpai.github.io/">Amith Singh</a>	
+		<br>
+		PhD Student, Fall 2018
+		<br>
+		asingh20 [at] albany.edu
+	</td>	
+</tr>
+<tr>
+	<td>
+		<img src="../images/team/russell.jpg" alt="Russell Ng" />
+		<br>
+		<a href="https://www.albany.edu/~rn533526/">Russell Ng,</a>	
+		<br>
+		Master Student, Fall 2019
+		<br>
+		rng [at] albany.edu
+	</td>
+	<td>
+		<img src="../images/team/alexander_valdez.png" alt="Alexander Valdez" />
+		<br>
+		<a href="/">Alexander Valdez</a>	
+		<br>
+		Undergrad Student, Fall 2019
+		<br>
+		avaldez2[at] albany.edu
+	</td>
+	<td>
+		<img src="../images/user.png" alt="Ruchi Gauli" />
+		<br>
+		<a href="/">Ruchi Gauli</a>	
+		<br>
+		Master Student, Spring 2019
+		<br>
+		rgauli [at] albany.edu
+	</td>
+</tr>
+<tr>
+	<td>
+		<img src="../images/user.png" alt="Kai Xie" />
+		<br>
+		<a href="/">Kai Xie</a>	
+		<br>
+		Master Student, Spring 2019
+		<br>
+		kxie, [at] albany.edu
+	</td>
+	<td>
+		<img src="../images/team/steve.jpg" alt="QinZhou Li (Steve)" />
+		<br>
+		<a href="/">QinZhou Li (Steve)</a>	
+		<br>
+		Undergrad Student, Fall 2019
+		<br>
+		qli8 [at] albany.edu
+	</td>
+	<td>
+		<img src="../images/user.png" alt="Jay Tanna" />
+		<br>
+		<a href="/">Jay Tanna</a>	
+		<br>
+		Master Student, Spring 2019
+		<br>
+		jtanna [at] albany.edu
+	</td>
+</tr>
+<tr>
+	<td>
+		<img src="../images/user.png" alt="Michael Phipps" />
+		<br>
+		<a href="https://www.albany.edu/computer-science/faculty/michael-phipps">Michael Phipps</a>	
+		<br>
+		Master Student, 2018
+		<br>
+		mphipps [at] albany.edu
+	</td>
+	<td>
+		<img src="../images/user.png" alt="Sean Lachhander" />
+		<br>
+		<a href="/">Sean Lachhander</a>	
+		<br>
+		Master Student, 2017
+		<br>
+		slachhander [at] albany.edu
+	</td>
+	<td>
+		<img src="../images/user.png" alt="Ravi Ekambaram" />
+		<br>
+		<a href="/">Ravi Ekambaram</a>	
+		<br>
+		Master Student, 2017
+		<br>
+		rekambaram [at] albany.edu
+	</td>
+</tr>
+</table>
+
+
+
+<!-- 
 
 # Alumni
 <table>
@@ -142,12 +430,5 @@ permalink: /people
 <td><a href="https://www.albany.edu/~QL114971/" style="color: rgb(0,0,256)">QinZhou Li (Steve)</a><br /><strong>Undergrad. Research Student</strong><br />SUNY, Albany <br />Email: qli8 [at] albany [dot] edu<br /></td>
 </tr>
 </table>
-
-# Visitors
-<table>
-<tr>
-<td style="width: 100px;"><img src="../images/user.png" alt="Laura O. Moraes" /></td>
-<td><a href="" style="color: rgb(0,0,256)">Laura O. Moraes</a><br /><strong>Ph.D.</strong><br />Universidade Federal do Rio de Janeiro (UFRJ) <br />Email: lmoraes [at] cos.ufrj.br<br /></td>
-</tr>
-</table>
+ -->
 
