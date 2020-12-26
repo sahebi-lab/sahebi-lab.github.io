@@ -1,7 +1,7 @@
 ---
 title: Publications
 layout: default
-perma: /publications
+permalink: /publications
 order: 2
 ---
 

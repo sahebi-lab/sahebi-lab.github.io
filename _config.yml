@@ -9,6 +9,6 @@ theme: minima
 
 
 #plugins:
-- jekyll-seo-tag
+# - jekyll-seo-tag
 #  - jekyll-redirect-from
 # - jekyll-feed
