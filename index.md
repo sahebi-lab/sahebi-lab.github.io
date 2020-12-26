@@ -5,6 +5,8 @@ order: 0
 ---
 
 <!-- <p style="font-size:110%;">Welcome to Personalized AI lab!</p> -->
+![A photo of our lab members in 2017](images/group_photo_Nov_2018.jpg)
+
 In PersAI Lab, we research on human-centered data science, including recommender systems and personalized education problems. Specific themes of our research include:
 
 - **Recommender Systems**
@@ -30,5 +32,5 @@ In PersAI Lab, we research on human-centered data science, including recommender
 - *September 2020*: Our paper "TransCrossCF:  Transition-based cross-domain collaborative filtering" was accepted in ICMLA 2020!
 - *August 2020*: Congratulations to Dr. Mehrdad Mirzaei for successfully defending his dissertation on "Discriminative Factorization Models for Student Behavioral Pattern Detection and Classification". He is the first PhD graduate of our lab!
 
-![A photo of our lab members in 2017](images/group_photo_Nov_2018.jpg)
-From left to right: Jeyesh, Mehrdad, Sherry, Siqian, Zinan, Thanh-Nam, Amit 
+<!--![A photo of our lab members in 2017](images/group_photo_Nov_2018.jpg)
+From left to right: Jeyesh, Mehrdad, Sherry, Siqian, Zinan, Thanh-Nam, Amit -->
