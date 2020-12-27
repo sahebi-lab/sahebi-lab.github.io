@@ -5,7 +5,7 @@ order: 0
 ---
 
 <!-- <p style="font-size:110%;">Welcome to Personalized AI lab!</p> -->
-![A photo of our lab members in 2017](images/group_photo_Nov_2018.jpg)
+![A photo of our lab members in 2018](images/group_photo_Nov_2018.jpg)
 
 In PersAI Lab, we research on human-centered data science, including recommender systems and personalized education problems. Specific themes of our research include:
 

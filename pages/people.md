@@ -148,7 +148,7 @@ Email: ssahebi [at] albany [dot] edu<br /></td>
 		<br>
 		Post-Doc at PersAI Lab
 		<br>
-		 2017-18
+		 2018-19
 		<br>
 		thanh-nam-doan [at] utc.edu
 	</td>
@@ -157,7 +157,7 @@ Email: ssahebi [at] albany [dot] edu<br /></td>
 		<br>
 		<a href="/">Laura O. Moraes</a>	
 		<br>
-		PersAI visitor in 2019
+		PersAI visitor in 2020
 		<br>
 		Universidade Federal do Rio de Janeiro (UFRJ)
 	</td>
@@ -270,9 +270,9 @@ Email: ssahebi [at] albany [dot] edu<br /></td>
 		larice [at] albany.edu
 	</td>
 	<td>
-		<img src="../images/team/amith.png" alt="Amith Singh" />
+		<img src="../images/team/Amith.png" alt="Amith Singh" />
 		<br>
-		<a href="https://chunpai.github.io/">Amith Singh</a>	
+		<a href="/">Amith Singh</a>	
 		<br>
 		PhD Student, Fall 2018
 		<br>

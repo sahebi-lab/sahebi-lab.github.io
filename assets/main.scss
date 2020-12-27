@@ -31,3 +31,17 @@ table.members {
 			}			
 	}	
 }
+
+
+img.halfsize { 
+	display: block;
+  	margin-left: auto;
+	margin-right: auto;
+	max-width: 60%; 
+	vertical-align: middle; 
+}
+	
+figcaption { 
+	font-size: 14px; 
+	text-align: center;
+}

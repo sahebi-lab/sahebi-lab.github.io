@@ -7,10 +7,24 @@ order: 1
 
 
 
-# Recommendation System
- Recommender systems (or recommendation systems) have emerged as one of the solutions to the information overload problem in 1990's. Nowadays, they are an essential part of many modern web systems. The goal of recommender systems is to present the most desirable information and products (items) to users based on their preferences. Although recommender systems are the topic of much research, they still suffer from many problems. One of their important problems happens when a new user starts using the system or a new item is introduced in it, and the system does not have enough information about this user or item to do the recommendations (the cold-start problem). One solution to such problem is cross-domain recommender systems. The main goal of these recommenders is to transfer useful information from one or more source (or auxiliary) domains to a target domain for providing better recommendations to user. For example, if a user has not watched any movies but has purchased some perfumes, we can discover his/her taste in movies based on the perfumes he/she has purchased and recommend some movies to him/her. Another approach to this problem is transferring external user profile information in the same domain from other systems. Despite the fact that cross-domain recommenders have been proved useful in some domains, the question remains that what makes a domain-pair more suitable for cross-domain recommendation? In my research, I explore methods to address the cold-start problem. More specifically, I research on characterizing the key aspects that distinguish between helpful and unhelpful transferred information between domain pairs or from external profiles; model these problems; and develop algorithms that can take advantage of these extra domain information in providing better recommendations to users. 
+# Recommender Systems
+Recommendation systems have emerged as one of the solutions to the information overload problem in 1990's. Nowadays, they are an essential part of many modern web systems. Their goal is to present the most desirable information and products (items) to users based on their preferences. Although recommender systems are the topic of much research, many open problems still exist, e.g.: 
+- How to recommend items to a new user, or recommend a new item to users 
+(*cold-start problem*)?
+- How to learn user preferences in one domain (e.g., perfumes), based on their information in another domain (e.g., games) (*cross-domain recommenders*)?
+- How to explain the generated recommendations to users (*recommendation explanation and review generation*)?
+- How to use various user feedback types (e.g., reviews, clicks, and ratings) and information resources to provide better recommendations (*multi-view and hybrid recommenders*)?
 
-<center><td style="width: 80%;"><img href="http://www.cs.albany.edu/~sherry/" src="images/research/CDCCAFig.png"/></td></center>
+In PersAI lab, we explore methods and develop machine learning models and algorithms that address these problems.  
+
+<!--![Cross-Domain Recommenders](images/research/CDCCAFig.png =500x)
+Cross-domain recommendation using subspace mapping-->
+
+
+<figure>
+<img class="halfsize" href="http://www.cs.albany.edu/~sherry/" src="images/research/CDCCAFig.png" />
+  <figcaption>Cross-domain recommendation using subspace mapping  </figcaption>
+</figure>
 
 # Learning Analytics and Education Data Mining
 Growth of Massive Open Online Courses (MOOC) has rapidly increased the volume of data on students' education and learning behavior. This abundance of data calls for approaches that can automatically make sense of the data, and that remove the need for manual handling of such massive amounts of data. Predicting students performance, modeling student knowledge, discovering the underlying concepts in learning material, and recommending learning resources to students, are some of the tasks that can benefit from these automatic approaches. My research in this area focuses on developing and applying machine learning approaches such as matrix and tensor decompositions to automatically learn these tasks from student data. 

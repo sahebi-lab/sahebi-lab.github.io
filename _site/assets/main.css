@@ -284,4 +284,8 @@ table.members td { border: 0px !important; border-collapse: collapse !important;
 
 table.members td img { width: 150px; }
 
+img.halfsize { display: block; margin-left: auto; margin-right: auto; max-width: 60%; vertical-align: middle; }
+
+figcaption { font-size: 14px; text-align: center; }
+
 /*# sourceMappingURL=main.css.map */
