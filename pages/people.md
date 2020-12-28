@@ -345,16 +345,22 @@ Email: ssahebi [at] albany [dot] edu<br /></td>
 		<br>
 		Master Student, 2018
 		<br>
+		Currently: Lecturer of Computer Science at SUNY-Albany
+		<br>
 		mphipps [at] albany.edu
 	</td>
 	<td>
-		<img src="../images/user.png" alt="Sean Lachhander" />
+		<img src="../images/team/sean.JPG" alt="Sean Lachhander" />
 		<br>
-		<a href="/">Sean Lachhander</a>	
+		<a href="https://www.linkedin.com/in/seanlachhander/">Sean Lachhander</a>	
 		<br>
 		Master Student, 2017
 		<br>
-		slachhander [at] albany.edu
+		Currently: Bioinformatics Software Engineer at Memorial Sloan Kettering Cancer Center,
+		<br>
+		D.Eng. Student at The George Washington University
+		<br>
+		lachhans [at] mskcc.org
 	</td>
 	<td>
 		<img src="../images/user.png" alt="Ravi Ekambaram" />
