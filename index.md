@@ -34,3 +34,20 @@ In PersAI Lab, we research on human-centered data science, including recommender
 
 <!--![A photo of our lab members in 2017](images/group_photo_Nov_2018.jpg)
 From left to right: Jeyesh, Mehrdad, Sherry, Siqian, Zinan, Thanh-Nam, Amit -->
+
+
+<!-- Statcounter code -->
+<script type="text/javascript">
+var sc_project=12452740; 
+var sc_invisible=1; 
+var sc_security="a85be249"; 
+</script>
+<script type="text/javascript"
+src="https://www.statcounter.com/counter/counter.js"
+async></script>
+<noscript><div class="statcounter"><a title="Web Analytics"
+href="https://statcounter.com/" target="_blank"><img
+class="statcounter"
+src="https://c.statcounter.com/12452740/0/a85be249/1/"
+alt="Web Analytics"></a></div></noscript>
+<!-- End of Statcounter Code -->
