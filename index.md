@@ -28,7 +28,7 @@ In PersAI Lab, we research on human-centered data science, including recommender
         
 <!--<center><p style="font-size:200%;"><strong>NEWS: </strong></p></center>-->
 ## News:
-- *December 2020*: Congrats Miley and Siqian for their collaborative paper accepted at The Web'2021 conference, titled "Stimuli-Sensitive Hawkes Processes for Personalized Student Procrastination Modeling"
+- *January 2021*: Congrats Miley and Siqian for their collaborative paper accepted at The Web'2021 conference, titled "Stimuli-Sensitive Hawkes Processes for Personalized Student Procrastination Modeling"
 - *December 2020*: Congrats Miley and Siqian for their collaborative paper accepted at AAAI'2021 conference, titled "Relaxed clustered hawkes process for procrastination modeling in MOOCs"
 - *October 2020*: Congrats Mehrdad for accepted paper at WI'2020 conference, titled "Sb-dnmf: A structure based discriminative non-negative matrix factorization model for detecting inefficient learning behaviors"
 - *September 2020*: Our paper "TransCrossCF:  Transition-based cross-domain collaborative filtering" was accepted in ICMLA 2020!
