@@ -7,6 +7,8 @@ order: 2
 
 # Publications
 
+M. Yao, S. Zhao,S. Sahebi, and R. Feyzi Behnagh, “Stimuli-Sensitive Hawkes Processes for Personalized Student Procrastination Modeling,” in The Thirtieth Web Conference (The Web-21),2021.
+
 M. Yao, S. Zhao,S. Sahebi, and R. Feyzi Behnagh, “Relaxed clustered hawkes process for procras-tination modeling in moocs,” inThe Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-21),2021.
 
 M. Mirzaei,S. Sahebi, and P. Brusilovsky, “Sb-dnmf: A structure based discriminative non-negativematrix factorization model for detecting inefficient learning behaviors",” inThe2020IEEE/WIC/ACMInternational Joint Conference On Web Intelligence And Intelligent Agent Technology.    WI-IAT,2020.
