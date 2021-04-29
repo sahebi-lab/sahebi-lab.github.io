@@ -15,7 +15,7 @@ order: 4
 
 - AI-Enabled Privacy Control for Emerging Challenges in Intelligent Online Educational Environments
     - Funded by:University at Albany, AICSI Seed Funding
-    - PI: [Dr. Amir Masoumzadeh] (http://www.cs.albany.edu/~amir/)
+    - PI: [Dr. Amir Masoumzadeh](http://www.cs.albany.edu/~amir/)
     - co-PI: Dr. Shaghayegh (Sherry) Sahebi
     - Duration: 12/1/2020 - 12/1/2021
     
