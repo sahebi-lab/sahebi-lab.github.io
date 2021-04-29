@@ -7,13 +7,15 @@ order: 2
 
 # Publications
 
-M. Yao, S. Zhao,S. Sahebi, and R. Feyzi Behnagh, “Stimuli-Sensitive Hawkes Processes for Personalized Student Procrastination Modeling,” in The Thirtieth Web Conference (The Web-21),2021.
+M. Yao, S. Sahebi, R. Feyzi Behnagh, S. Bursali, and S. Zhao, "Temporal Processes Associating withProcrastination Dynamics," in the Twenty Second International Conference on Artificial Intelligence in Education (AIED-21), 2021.
 
-M. Yao, S. Zhao,S. Sahebi, and R. Feyzi Behnagh, “Relaxed clustered hawkes process for procras-tination modeling in moocs,” inThe Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-21),2021.
+M. Yao, S. Zhao, S. Sahebi, and R. Feyzi Behnagh, “Stimuli-Sensitive Hawkes Processes for Personalized Student Procrastination Modeling,” in The Thirtieth Web Conference (The Web-21), 2021.
 
-M. Mirzaei,S. Sahebi, and P. Brusilovsky, “Sb-dnmf: A structure based discriminative non-negativematrix factorization model for detecting inefficient learning behaviors",” inThe2020IEEE/WIC/ACMInternational Joint Conference On Web Intelligence And Intelligent Agent Technology.    WI-IAT,2020.
+M. Yao, S. Zhao,S. Sahebi, and R. Feyzi Behnagh, “Relaxed clustered hawkes process for procras-tination modeling in moocs,” inThe Thirty-Fifth AAAI Conference on Artificial Intelligence (AAAI-21), 2021.
 
-T.N. Doan, and S. Sahebi, "Transcrosscf: Transition-based cross-domain collaborative filtering", 19th IEEE International Conference on Machine Learning and Applications (ICMLA), 2020
+M. Mirzaei,S. Sahebi, and P. Brusilovsky, “Sb-dnmf: A structure based discriminative non-negativematrix factorization model for detecting inefficient learning behaviors",” inThe2020IEEE/WIC/ACMInternational Joint Conference On Web Intelligence And Intelligent Agent Technology. WI-IAT,2020.
+
+T.N. Doan, and S. Sahebi, "Transcrosscf: Transition-based cross-domain collaborative filtering", 19th IEEE International Conference on Machine Learning and Applications (ICMLA), 2020.
 
 S. Zhao, C. Wang, and S. Sahebi, "Modeling Knowledge Acquisition from Multiple LearningResource Types", 13th International Conference on Educational Data Mining (EDM), 2020.   
 
