@@ -7,9 +7,15 @@ order: 4
 
 # Projects
 
+- [Time-Aware Multi-Objective Recommendation in Online Learning Environments.](http://www.cs.albany.edu/~sherry/projects/multi_educational_recommendation.php)
+    - Funded by: National Science Foundation, Grant No. [2047500](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2047500)
+    - PI: Dr. Shaghayegh (Sherry) Sahebi
+    - Duration: 8/1/2021 - 7/31/2026
+
+
 - AI-Enabled Privacy Control for Emerging Challenges in Intelligent Online Educational Environments
     - Funded by:University at Albany, AICSI Seed Funding
-    - PI: Dr. Amir Masoumzadeh
+    - PI: [Dr. Amir Masoumzadeh] (http://www.cs.albany.edu/~amir/)
     - co-PI: Dr. Shaghayegh (Sherry) Sahebi
     - Duration: 12/1/2020 - 12/1/2021
     
