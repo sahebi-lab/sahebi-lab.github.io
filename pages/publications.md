@@ -7,6 +7,10 @@ order: 2
 
 # Publications
 
+C. Wang, S. Zhao, and S. Sahebi, “Learning from Non-assessed Resources: Deep Multi-type Knowledge Tracing,” in The 14th International Conference on Educational Data Mining (EDM-21), 2021.
+
+C. Wang, S. Sahebi, S. Zhao, P. Brusilovsky, and L. Moraes, “Knowledge Tracing for Complex Problem Solving: Granular Rank-based Tensor Factorization,” in The 29th Conference on User Modeling, Adaptation and Personalization (UMAP-21), 2021.
+
 M. Yao, S. Sahebi, R. Feyzi Behnagh, S. Bursali, and S. Zhao, "Temporal Processes Associating withProcrastination Dynamics," in the Twenty Second International Conference on Artificial Intelligence in Education (AIED-21), 2021.
 
 M. Yao, S. Zhao, S. Sahebi, and R. Feyzi Behnagh, “Stimuli-Sensitive Hawkes Processes for Personalized Student Procrastination Modeling,” in The Thirtieth Web Conference (The Web-21), 2021.
