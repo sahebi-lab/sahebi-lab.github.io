@@ -53,7 +53,7 @@ Email: ssahebi [at] albany [dot] edu<br /></td>
 		szhao2 [at] albany.edu
 	</td>
 	<td>
-		<img src="../images/team/oldmiley.png" alt="Miley Yao" />
+		<img src="../images/team/oldmiley.jpg" alt="Miley Yao" />
 		<br>
 		<a href="https://scholar.google.com/citations?hl=en&user=N7J1BHAAAAAJ">Miley Yao</a>	
 		<br>
@@ -76,7 +76,7 @@ Email: ssahebi [at] albany [dot] edu<br /></td>
 <table class="members">
 <tr>
 	<td>
-		<img src="../images/team/Kavya.jpg" alt="Kavya Kakkera" />
+		<img src="../images/team/kavya.png" alt="Kavya Kakkera" />
 		<br>
 		<a href="">Kavya Kakkera</a>	
 		<br>
