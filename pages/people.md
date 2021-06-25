@@ -13,7 +13,7 @@ order: 3
 	<td>		
 	</td>
 	<td>
-		<img src="../images/team/sherry.png" alt="Shaghayegh (Sherry) Sahebi" />
+		<img src="../images/team/oldsherry.png" alt="Shaghayegh (Sherry) Sahebi" />
 		<br>
 		<a href="http://www.cs.albany.edu/~sherry/">Shaghayegh (Sherry) Sahebi</a>	
 		<br>
@@ -46,21 +46,21 @@ Email: ssahebi [at] albany [dot] edu<br /></td>
 <table class="members">
 <tr>
 	<td>
-		<img src="../images/team/siqian_zhao.jpg" alt="Siqian Zhao" />
+		<img src="../images/team/oldsiqian_zhao.jpg" alt="Siqian Zhao" />
 		<br>
 		<a href="https://www.albany.edu/~sz612866/">Siqian Zhao</a>	
 		<br>
 		szhao2 [at] albany.edu
 	</td>
 	<td>
-		<img src="../images/team/miley.png" alt="Miley Yao" />
+		<img src="../images/team/oldmiley.png" alt="Miley Yao" />
 		<br>
 		<a href="https://scholar.google.com/citations?hl=en&user=N7J1BHAAAAAJ">Miley Yao</a>	
 		<br>
 		myao [at] albany.edu
 	</td>
 	<td>
-		<img src="../images/team/chunpai.png" alt="Chunpai Wang" />
+		<img src="../images/team/oldchunpai.png" alt="Chunpai Wang" />
 		<br>
 		<a href="https://chunpai.github.io/">Chunpai Wang</a>	
 		<br>
@@ -70,32 +70,20 @@ Email: ssahebi [at] albany [dot] edu<br /></td>
 </table>
 
 
-<!-- 
 # Master Students
 
 
 <table class="members">
 <tr>
 	<td>
-		<img src="../images/team/siqian_zhao.jpg" alt="Siqian Zhao" />
+		<img src="../images/team/Kavya.jpg" alt="Kavya Kakkera" />
 		<br>
-		<a href="https://www.albany.edu/~sz612866/">Siqian Zhao</a>	
+		<a href="">Kavya Kakkera</a>	
 		<br>
-		szhao2 [at] albany.edu
-	</td>
-	<td>
-		<img src="../images/team/miley.JPG" alt="Miley Yao" />
-		<br>
-		<a href="https://scholar.google.com/citations?hl=en&user=N7J1BHAAAAAJ">Miley Yao</a>	
-		<br>
-		myao [at] albany.edu
-	</td>
-	<td>
-		
+		kkakkera [at] albany.edu
 	</td>
 </tr>
 </table>
- -->
 
 
 
