@@ -60,7 +60,7 @@ Email: ssahebi [at] albany [dot] edu<br /></td>
 		myao [at] albany.edu
 	</td>
 	<td>
-		<img src="../images/team/oldchunpai.png" alt="Chunpai Wang" />
+		<img src="../images/team/chunpai.jpg" alt="Chunpai Wang" />
 		<br>
 		<a href="https://chunpai.github.io/">Chunpai Wang</a>	
 		<br>
