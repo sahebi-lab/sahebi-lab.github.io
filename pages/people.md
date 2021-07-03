@@ -100,6 +100,10 @@ Email: ssahebi [at] albany [dot] edu<br /></td>
 		mhashem [at] albany.edu
 	</td>
 	<td>
+		<img src="../images/team/evan.jpg" alt="Evan Philipps" />
+		<br>
+		<a href="/">Evan Philipps</a>	
+		<br>
 	</td>
 </tr>
 </table>
